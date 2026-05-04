@@ -1,1 +1,1 @@
-# base-contract
+# My first smart contract on Base
