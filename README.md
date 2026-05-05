@@ -1,1 +1,1 @@
-# My first smart contract on Base6
+# My first smart contract on Base7
