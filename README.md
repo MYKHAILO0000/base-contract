@@ -1,1 +1,1 @@
-# My first smart contract on Base2
+# My first smart contract on Base3
